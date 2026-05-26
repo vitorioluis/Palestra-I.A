@@ -1,1 +1,0 @@
-"# Palestra-I.A" 
